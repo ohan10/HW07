@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\高階程式實習作業\113-1HW7\p17\sourse\Source.cpp(13,22): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+  Project1.vcxproj -> D:\高階程式實習作業\113-1HW7\p17\Project1\x64\Debug\Project1.exe
